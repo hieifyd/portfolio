@@ -1,5 +1,5 @@
 # Portfolio
-This is my public portofolio for *Telling Stories with Data*!
+This is my public portfolio for *Telling Stories with Data*!
 
 ## About Me
 * I'm Yingdong Feng, an MBA student at Tepper School of Business. My pronous is He/His/Him.
