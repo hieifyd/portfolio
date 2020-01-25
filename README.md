@@ -17,4 +17,4 @@ Understand how __design__ can change data visualization
 More things to be __continued...__
 
 #### Link to Assignments
-[Link to Assignment:\_OECD Data Visualization](/DataViz_OECD.md)
+[Link to Assignment:\ OECD Data Visualization](/DataViz_OECD.md)
