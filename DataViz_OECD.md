@@ -4,17 +4,17 @@
 
 ## Comparison among three charts:
 
-..* Bar Chart
+* Bar Chart
 1. Clear to see the comparison between different countries.
 2. This bar chart fails to demonstrate the Time dimension
 3. Background color is distraction. The same color doesn't provide key insights.
 
-..* Beeswarm Plot
+* Beeswarm Plot
 1. This chart successfully demonstrate three dimensions: Time, Value and Countries
 2. People can clearly see what is the debt trend of each countries
 3. Default color makes the plot simple and toneless
 
-..* The third data visualization - Area Graph (Time series)
+* The third data visualization - Area Graph (Time series)
 I chose this chart for the following reasons
 1. This chart can embed Time, Value and Countries in the same chart
 2. The width of each line demonstrate comparison of debt situation among different countries
