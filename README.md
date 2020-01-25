@@ -16,5 +16,4 @@ Understand how __design__ can change data visualization
 More things to be __continued...__
 
 #### Link to other pages
-
-https://hieifyd.github.io/portfolio/DataViz_OECD.md
+[Link to DataViz_OECD](/DataViz_OECD.md)
