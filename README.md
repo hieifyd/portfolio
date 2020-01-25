@@ -1,5 +1,6 @@
 # Portfolio
 This is my public portfolio for *Telling Stories with Data*!
+
 Link: https://hieifyd.github.io/portfolio/
 
 ## About Me
@@ -16,4 +17,4 @@ Understand how __design__ can change data visualization
 More things to be __continued...__
 
 #### Link to other pages
-[Link to DataViz_OECD](/DataViz_OECD.md)
+[Link to Assignment:\_OECD Data Visualization](/DataViz_OECD.md)
