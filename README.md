@@ -18,4 +18,5 @@ More things to be __continued...__
 
 #### Link to Assignments
 [OECD Data Visualization](/DataViz_OECD.md)
+
 [Critique by Design](/CritiqueByDesign.md)
