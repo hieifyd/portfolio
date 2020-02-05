@@ -1,6 +1,6 @@
 # Topic: Whether people should purchase EV based on current market situation
 
-## Story Outline
+## 1. Story Outline
 ### Introduction of EV
 * Pictures of EV. Tesla, BMW, Nissan Leaf, etc...
 * Page break
@@ -26,9 +26,11 @@
 * Call: Buy EV / not to buy EV (Based on the result of data analysis)
 
 
-## Data Set
+## 2. Data Set
 Link for data: https://catalog.data.gov/dataset/electric-vehicle-population-data
+
 This data includes vehicle registretion informaion in Washington DC state. Most of the data is in the past decade.
+
 This dataset contains the following information of a registered vehicle:
 
 County, City,State,ZIP Code, Model, Year, Make, Model, Electric Vehicle Type, Electric Range, Base MSRP, Legislative District, and Vehicle Location
@@ -40,5 +42,8 @@ Of all the informaiton above:
 * Electric Range will be used for topics about "Range Anxiety"
 * Base MSRP data will be used for topics about "People's concern about vehicle price"
 
-## Platform Medium
-### Shorthand, RAWGraph, and Tablauea
+## 3. Platform and Medium
+* I will use Shorthand to draw the story board.
+* I will use RAWGraph for quick visualization. RAWGraph is a good way to do some quick demo of fancy visualizaitons. Tableau is another visualization tools, especially for some fantastic features like geo-distribution.
+* I will also use ColorBrewer to design the color of these visualization.
+* For sketches, I think I will just use Ipad since  its flexible and there are plenty of choices of color.
