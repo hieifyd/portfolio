@@ -31,6 +31,14 @@ Link for data: https://catalog.data.gov/dataset/electric-vehicle-population-data
 This data includes vehicle registretion informaion in Washington DC state. Most of the data is in the past decade.
 This dataset contains the following information of a registered vehicle:
 
-County, City,State,ZIP, Code, Model, Year, Make, Model, Electric Vehicle Type, Electric Range, Base MSRP, Legislative District, and Vehicle Location
+County, City,State,ZIP Code, Model, Year, Make, Model, Electric Vehicle Type, Electric Range, Base MSRP, Legislative District, and Vehicle Location
 
+Of all the informaiton above:
+* Total number of vehicle will be used for "Historic statistics: increase from 2002 to 2020"
+* Make and model data will be used for "Top brands and makes" statistics"
+* City, State, Zip Code and location data will be used for "Geo distribution of vehicles in Washington"
+* Electric Range will be used for topics about "Range Anxiety"
+* Base MSRP data will be used for topics about "People's concern about vehicle price"
 
+## Platform Medium
+### Shorthand, RAWGraph, and Tablauea
