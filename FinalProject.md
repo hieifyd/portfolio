@@ -10,6 +10,10 @@
 (Use total EV population in Washington)
 ![](Image/EVNumber.png)
 
+* Current percentage of people who has EV(s)
+(Use EV population percentage in Washington)
+![](Image/EVProportion.png)
+
 * Top brands and makes
 (Use statistics of make/model in the dataset)
 ![](Image/EVBrand.png)
