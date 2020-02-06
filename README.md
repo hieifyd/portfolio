@@ -20,3 +20,5 @@ More things to be __continued...__
 [OECD Data Visualization](/DataViz_OECD.md)
 
 [Critique by Design](/CritiqueByDesign.md)
+
+[Critique by Design](/FinalProject.md)
