@@ -3,8 +3,6 @@ This is my public portfolio for *Telling Stories with Data*!
 
 Link: https://hieifyd.github.io/portfolio/
 
-<a href="https://hieifyd.github.io/portfolio/" target="_blank">Link for ReadMe</a>
-
 ## About Me
 * I'm Yingdong Feng, an MBA student at Tepper School of Business. My pronous is He/His/Him.
 * I'm taking this class becuase it can benefit me in the long run. I am interested in learning how to present information and insights in the most appropriate way.
