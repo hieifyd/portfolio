@@ -23,4 +23,4 @@ More things to be __continued...__
 
 [Critique by Design](/CritiqueByDesign.md)
 
-[Critique by Design](/FinalProject.md)
+[Final Project I](/FinalProject.md)
