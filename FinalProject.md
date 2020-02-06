@@ -8,19 +8,24 @@
 ### We will look into the EV statistics in Washington State to facilitate your decisions
 * Historic statistics: increase from 2002 to 2020
 (Use total EV population in Washington)
+![](Image/EVNumber.png)
 
 * Top brands and makes
 (Use statistics of make/model in the dataset)
+![](Image/EVBrand.png)
 
 * Geo distribution of vehicles in Washington
 (Use zip code of those registered vehicles to show EV location distributions)
+![](Image/EVGeoDistribution.png)
 
 ### Discussion about top concerns while purchasing a BEV
 * People usually have Range anxiety
 (Existing range distribution)
+![](Image/EVElectricRange.png)
 
 * They have a concern about vehicle price
 (list price and compared it with the average price of ICV)
+![](Image/EVPrice.png)
 
 ### Call for action
 * Call: Buy EV / not to buy EV (Based on the result of data analysis)
