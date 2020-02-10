@@ -9,8 +9,11 @@
 a. the target audience you hope to reach with your story
 
 
-
 b. your approach to identifying representative individuals to interview
+
+Vehicle owners: two people who have cars
+
+Non-related audience: one person who does not possess a car
 
 c. your interview script
 
