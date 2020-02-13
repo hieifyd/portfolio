@@ -129,7 +129,7 @@ Not enough. Information is too little.
 
 The contents about EV’s popularity and population provide little help in decision making process. Also, the geo distribution of EV in the Washington State is not relevant either.
 
-What a potential buyer really cares are those concerns. Price is the biggest concern of a potential buyer. Meanwhile, I would like to know if there is any way to address price issue, like providing financing?
+What potential buyers really cares are those concerns. Price is the biggest concern of a potential buyer. Meanwhile, I would like to know if there is any way to address price issue, like providing financing?
 
 The chart of electric range can relieve my concerns on range anxiety.
 
@@ -152,3 +152,16 @@ The chart at the beginning looks like marking materials. However, charts in the 
 
 
 #### e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified
+Based on feedback from interviewees, I've identified the following issues and would like to make corresponding modifications:
+
+Issues: The intention of the website is unclear.
+
+Solution: Add a summary part at the beginning of the website. Re-organize storyboard to satisfy key concepts of the website
+
+Issues: Want to see more comparision between EV and traditional vehicles.
+Solution: Add a section in people's concern part talking about differences in the filed of specification, usage, etc.
+
+Issues: Charts need to be improved
+Solution: Further polish data visualization according to specific usage.
+
+
