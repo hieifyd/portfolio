@@ -3,7 +3,7 @@ I combined all the wireframes and storyboards to create my first version of the 
 
 Below is the link for my first draft:
 
-Link: https://preview.shorthand.com/dC8n193x62hdUikv
+**Link: https://preview.shorthand.com/dC8n193x62hdUikv**
 
 ## User Research
 
@@ -168,4 +168,4 @@ Solution: Further polish data visualization according to specific usage.
 
 **Below is the link for revised wireframe/storyboard/visualization**
 
-Link: https://preview.shorthand.com/EH8XS2SckEStrVCI
+**Link: https://preview.shorthand.com/EH8XS2SckEStrVCI**
