@@ -164,8 +164,8 @@ Solution: Add a section in people's concern part talking about differences in th
 
 Issues: Charts need to be improved
 
-Below is the link for revised wireframe/storyboard/visualization
+Solution: Further polish data visualization according to specific usage.
+
+**Below is the link for revised wireframe/storyboard/visualization**
 
 https://preview.shorthand.com/EH8XS2SckEStrVCI
-
-Solution: Further polish data visualization according to specific usage.
