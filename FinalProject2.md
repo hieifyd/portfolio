@@ -151,7 +151,7 @@ I would like to see more comparisons on the life-time expense of EVs and traditi
 The chart at the beginning looks like marking materials. However, charts in the main contents do not look as good as the first several ones. Should put more effort into data visualization.
 
 
-#### e. changes you implemented to your sketches, storyboards, and wireframes to address the issues identified
+## Changes implemented to sketches, storyboards, and wireframes to address the issues identified
 Based on feedback from interviewees, I've identified the following issues and would like to make corresponding modifications:
 
 Issues: The intention of the website is unclear.
