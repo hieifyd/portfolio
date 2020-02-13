@@ -1,9 +1,9 @@
 ## First draft of the presentation
 I combined all the wireframes and storyboards to create my first version of the presentation. Using all those materials, I created a presentation, including visualizations, on Shorthand for user research.
 
-Below is the link for my first draft.:
+Below is the link for my first draft:
 
-https://preview.shorthand.com/dC8n193x62hdUikv
+Link: https://preview.shorthand.com/dC8n193x62hdUikv
 
 ## User Research
 
@@ -168,4 +168,4 @@ Solution: Further polish data visualization according to specific usage.
 
 **Below is the link for revised wireframe/storyboard/visualization**
 
-https://preview.shorthand.com/EH8XS2SckEStrVCI
+Link: https://preview.shorthand.com/EH8XS2SckEStrVCI
