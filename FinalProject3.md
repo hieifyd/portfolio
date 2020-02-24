@@ -18,6 +18,8 @@ I organized my presentation in the following sequences:
 2. To help a normal customer to make decisions, I introduced and analyzed some concerns to put forward more detailed information which might not be known by potential customers.
 3. Based on the analysis of the big picture and personal preference, I put forward my recommendation in the end.
 
+During the whole process, I received and applied feedbacks from two in-class critique sessions and three interviews outside of class. All this feedback helped me better organize my story, polish my charts, and make the whole story more smooth. The modifications I made based on those feedbacks will be introduced in the next section.
+
 ### A few paragraphs that summarize the work you've done so far. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned to work through the process. (Part III)
 
 **Storyboard**
@@ -26,7 +28,7 @@ Thinking in the shoe of my target audience. I assume that people who are thinkin
 
 During my interview, a couple of interviewees said they were not sure what is the key idea of my presentation. So instead of telling my story bit by bit, I decided to include a summary at the beginning to help my audience understand the contents I meant to introduce in my presentation.
 
-From the feedback from my interviewee and in the class, I have identified some missing contents the target audience care about, such as the comparison of life-time expenses of an electric and that of a traditional vehicle. I looked up more information and added it to my presentation.
+From the feedback from my interviewee and in the class, I have identified some missing contents the target audience cares about, such as the comparison of life-time expenses of an electric and that of a traditional vehicle. I looked up more information and added it to my presentation.
 
 **Data Visualization**
 
@@ -36,9 +38,4 @@ Color is another issue mentioned by my interviewees. I've got a picture illustra
 
 ### Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final projects).  Make sure your data story is published and publicly accessible. (Part III)
 
-Link for my final data story is: XXXX
-
-### Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet here (Links to an external site.) (Links to an external site.).  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
-
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctly links to an external site..  Make sure to add/update any citations and / or other content that you used to create your data story.  References should also be clearly identified on your final data story itself.  (Part III)
-Include any other information that helps round out your data story. (Part III)
+Link for my final data story is: https://preview.shorthand.com/eCUdC5kNyAO1xWLU
