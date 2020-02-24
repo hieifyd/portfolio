@@ -1,3 +1,10 @@
+[Back to Summary Page](/FinalProject-Summary.md)
+
+[Go to Part 1: The idea](/FinalProject.md)
+
+[Go to Part 2: Design and user research](/FinalProject2.md)
+
+
 A final project Github page that summarizes all the work you've done thus far to create your final project.
 You don't need to re-write or recreate content you've already created for parts I and II of this assignment as long as it's organized in an easy-to-follow way.
 This document should serve as a kind of "behind the scenes" look at how you created your work.
