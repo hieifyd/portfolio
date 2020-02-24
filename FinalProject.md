@@ -1,3 +1,12 @@
+[Back to Summary Page](/FinalProject-Summary.md)
+
+[Go to Part 1: The idea](/FinalProject.md)
+
+[Go to Part 2: Design and user research](/FinalProject2.md)
+
+[Go to Part 3: Final data story](/FinalProject3.md)
+
+
 # Topic: Whether people should purchase EV based on the current market situation
 
 ## 1. Story Outline
