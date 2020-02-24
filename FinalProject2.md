@@ -1,3 +1,9 @@
+[Back to Summary Page](/FinalProject-Summary.md)
+
+[Go to Part 1: The idea](/FinalProject.md)
+
+[Go to Part 3: Final data story](/FinalProject3.md)
+
 ## First draft of the presentation
 I combined all the wireframes and storyboards to create my first version of the presentation. Using all those materials, I created a presentation, including visualizations, on Shorthand for user research.
 
