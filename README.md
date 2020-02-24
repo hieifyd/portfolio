@@ -24,3 +24,5 @@ More things to be __continued...__
 [Final Project I](/FinalProject.md)
 
 [Final Project II](/FinalProject2.md)
+
+[Final Project III](/FinalProject3.md)
