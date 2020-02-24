@@ -1,10 +1,10 @@
 ## This is the summary page for my final project, which can be devided in to the following parts:
 
-1. The idea: 
+1. The idea: https://hieifyd.github.io/portfolio/FinalProject.html
 
-2. Design and user research:
+2. Design and user research: https://hieifyd.github.io/portfolio/FinalProject2.html
 
-3. Final data story:
+3. Final data story: https://hieifyd.github.io/portfolio/FinalProject3.html
 
 I've also included the link for each section above. Below are detailed introductions (from Canvas) of each part.
 
