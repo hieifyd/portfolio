@@ -46,3 +46,7 @@ Color is another issue mentioned by my interviewees. I've got a picture illustra
 ### Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final projects).  Make sure your data story is published and publicly accessible. (Part III)
 
 Link for my final data story is: https://preview.shorthand.com/eCUdC5kNyAO1xWLU
+
+### Copyright
+
+I selected Tools - Usage Rights - Labeled for reuse while searching for images on Google. Thus I believe all pictures in my presentation are appropriate for reuse without causing copyrights issue.
