@@ -51,7 +51,7 @@ Link for my final data story is: https://preview.shorthand.com/eCUdC5kNyAO1xWLU
 
 I selected Tools - Usage Rights - Labeled for reuse while searching for images on Google. Thus I believe all pictures in my presentation are appropriate for reuse without causing copyrights issue.
 
-### Include all references for materials used
+### References for materials used
 
 1. 4 U.S. Electric Vehicle Trends To Watch In 2019 (https://www.forbes.com/sites/energyinnovation/2019/01/02/4-u-s-electric-vehicle-trends-to-watch-in-2019/#5579c09a5a3c)
 
