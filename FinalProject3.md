@@ -50,3 +50,13 @@ Link for my final data story is: https://preview.shorthand.com/eCUdC5kNyAO1xWLU
 ### Copyright
 
 I selected Tools - Usage Rights - Labeled for reuse while searching for images on Google. Thus I believe all pictures in my presentation are appropriate for reuse without causing copyrights issue.
+
+### Include all references for materials used
+
+1. 4 U.S. Electric Vehicle Trends To Watch In 2019 (https://www.forbes.com/sites/energyinnovation/2019/01/02/4-u-s-electric-vehicle-trends-to-watch-in-2019/#5579c09a5a3c)
+
+2. Consumers Are More Willing to Buy an Electric Vehicle (https://www.fool.com/investing/2016/09/20/consumers-are-more-willing-to-buy-an-electric-vehi.aspx)
+
+3. Range anxiety (https://en.wikipedia.org/wiki/Range_anxiety)
+
+4. Electric cars cost double the price of other cars on the market today (https://www.jato.com/electric-cars-cost-double-the-price-of-other-cars-on-the-market-today/)
