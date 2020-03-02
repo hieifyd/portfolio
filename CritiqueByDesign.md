@@ -1,6 +1,6 @@
 [Back to ReadMe](/README.md)
 
-# Critique by Design
+## Assignment Three: Critique by Design
 
 ## 1. Link and screenshot of the original visualization
 https://www.nytimes.com/interactive/2020/01/29/us/politics/iowa-facebook-political-ads.html
