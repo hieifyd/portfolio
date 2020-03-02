@@ -1,6 +1,6 @@
 [Back to ReadMe](/README.md)
 
-# Assignment  - OECD Data Visualization
+# Assignment Two - OECD Data Visualization
  
 ## Comparison among three charts:
  
