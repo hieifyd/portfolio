@@ -17,14 +17,16 @@ Understand how __design__ can change data visualization
 More things to be __continued...__
 
 #### Link to Assignments
-[OECD Data Visualization](/DataViz_OECD.md)
+There are three major assignments in this page:
 
-[Critique by Design](/CritiqueByDesign.md)
+1. [OECD Data Visualization](/DataViz_OECD.md)
 
-[Final Project Summary](/FinalProject-Summary.md)
+2. [Critique by Design](/CritiqueByDesign.md)
 
-[Final Project I](/FinalProject.md)
+3. [Final Project Summary](/FinalProject-Summary.md)
 
-[Final Project II](/FinalProject2.md)
+3.1 [Final Project I](/FinalProject.md)
 
-[Final Project III](/FinalProject3.md)
+3.2 [Final Project II](/FinalProject2.md)
+
+3.3 [Final Project III](/FinalProject3.md)
